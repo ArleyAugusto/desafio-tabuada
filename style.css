@@ -28,12 +28,10 @@ footer {
     
 }
 
-div {
+div.div1 {
     text-align: center;
-    padding: 8px;
 }
 
-img#imagem {
-    height: 210px;
-    
+div.div2 {
+    text-align: center;
 }
